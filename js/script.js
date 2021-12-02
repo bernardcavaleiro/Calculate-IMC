@@ -71,9 +71,9 @@ function setResult (msg, isValid){
   const p = createP();
   
   if (isValid) {
-  p.classList.add('container-result');
+  p.classList.add('result-green');
   } else {
-    p.classList.add('bad');
+    p.classList.add('result-red');
   }
   p.innerHTML = msg;
   result.appendChild(p);
