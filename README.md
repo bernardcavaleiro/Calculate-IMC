@@ -8,7 +8,7 @@ Realiza o calculo com base no seu índice de massa corporal (IMC).
 
 # Funcionalidades 
 
-* utiliza medidas de Kilogramas e Centimetrros
+* utiliza medidas de quilogramas e Centimetrros
 * tem um limite de peso max. e peso min.
 
 # Tecnologias utilizadas
